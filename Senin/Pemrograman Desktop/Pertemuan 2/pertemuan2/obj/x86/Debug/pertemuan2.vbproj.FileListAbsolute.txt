@@ -1,0 +1,9 @@
+D:\Kampus\Pemrograman Desktop\Pertemuan 2\pertemuan2\pertemuan2\obj\x86\Debug\pertemuan2.Main.resources
+D:\Kampus\Pemrograman Desktop\Pertemuan 2\pertemuan2\pertemuan2\obj\x86\Debug\pertemuan2.Resources.resources
+D:\Kampus\Pemrograman Desktop\Pertemuan 2\pertemuan2\pertemuan2\obj\x86\Debug\pertemuan2.vbproj.GenerateResource.Cache
+D:\Kampus\Pemrograman Desktop\Pertemuan 2\pertemuan2\pertemuan2\bin\Debug\pertemuan2.exe
+D:\Kampus\Pemrograman Desktop\Pertemuan 2\pertemuan2\pertemuan2\bin\Debug\pertemuan2.pdb
+D:\Kampus\Pemrograman Desktop\Pertemuan 2\pertemuan2\pertemuan2\bin\Debug\pertemuan2.xml
+D:\Kampus\Pemrograman Desktop\Pertemuan 2\pertemuan2\pertemuan2\obj\x86\Debug\pertemuan2.exe
+D:\Kampus\Pemrograman Desktop\Pertemuan 2\pertemuan2\pertemuan2\obj\x86\Debug\pertemuan2.xml
+D:\Kampus\Pemrograman Desktop\Pertemuan 2\pertemuan2\pertemuan2\obj\x86\Debug\pertemuan2.pdb

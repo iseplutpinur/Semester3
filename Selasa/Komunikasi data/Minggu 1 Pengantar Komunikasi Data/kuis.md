@@ -1,0 +1,1 @@
+Mempelajari komunikasi data sangat diperlukan mengingat saya berada di jurusan teknik informatika yang pembahasannya banyak sekali berkutat dengan data, maka dari itu komunikasi data sangat diperlukan nantinya untuk mempermudah proses pembelajaran dan pemahaman kedepannya.
