@@ -1,0 +1,13 @@
+C:\Users\IsepLutpiNur\AppData\Local\Temporary Projects\Minggu 2 ComboBox Dan Radio Button\bin\Debug\Minggu 2 ComboBox Dan Radio Button.exe
+C:\Users\IsepLutpiNur\AppData\Local\Temporary Projects\Minggu 2 ComboBox Dan Radio Button\bin\Debug\Minggu 2 ComboBox Dan Radio Button.pdb
+C:\Users\IsepLutpiNur\AppData\Local\Temporary Projects\Minggu 2 ComboBox Dan Radio Button\bin\Debug\Minggu 2 ComboBox Dan Radio Button.xml
+C:\Users\IsepLutpiNur\AppData\Local\Temporary Projects\Minggu 2 ComboBox Dan Radio Button\obj\x86\Debug\Minggu_2_ComboBox_Dan_Radio_Button.Resources.resources
+C:\Users\IsepLutpiNur\AppData\Local\Temporary Projects\Minggu 2 ComboBox Dan Radio Button\obj\x86\Debug\Minggu 2 ComboBox Dan Radio Button.vbproj.GenerateResource.Cache
+C:\Users\IsepLutpiNur\AppData\Local\Temporary Projects\Minggu 2 ComboBox Dan Radio Button\obj\x86\Debug\Minggu 2 ComboBox Dan Radio Button.exe
+C:\Users\IsepLutpiNur\AppData\Local\Temporary Projects\Minggu 2 ComboBox Dan Radio Button\obj\x86\Debug\Minggu 2 ComboBox Dan Radio Button.xml
+C:\Users\IsepLutpiNur\AppData\Local\Temporary Projects\Minggu 2 ComboBox Dan Radio Button\obj\x86\Debug\Minggu 2 ComboBox Dan Radio Button.pdb
+C:\Users\IsepLutpiNur\AppData\Local\Temporary Projects\Minggu 2 ComboBox Dan Radio Button\obj\x86\Debug\Minggu_2_ComboBox_Dan_Radio_Button.frTokoIstanaBuah.resources
+C:\Users\IsepLutpiNur\AppData\Local\Temporary Projects\Minggu 2 ComboBox Dan Radio Button\obj\x86\Debug\Minggu_2_ComboBox_Dan_Radio_Button.SurveyBuahTerEnakDiTokoIstanaBuah.resources
+D:\Kampus\Senin\Pemrograman Desktop\Minggu 3 - (Pengenalan ComboBox dan RadioButton)\tugas\Prototype\Minggu 2 ComboBox Dan Radio Button\Minggu 2 ComboBox Dan Radio Button\obj\x86\Debug\Minggu 2 ComboBox Dan Radio Button.exe
+D:\Kampus\Senin\Pemrograman Desktop\Minggu 3 - (Pengenalan ComboBox dan RadioButton)\tugas\Prototype\Minggu 2 ComboBox Dan Radio Button\Minggu 2 ComboBox Dan Radio Button\obj\x86\Debug\Minggu 2 ComboBox Dan Radio Button.xml
+D:\Kampus\Senin\Pemrograman Desktop\Minggu 3 - (Pengenalan ComboBox dan RadioButton)\tugas\Prototype\Minggu 2 ComboBox Dan Radio Button\Minggu 2 ComboBox Dan Radio Button\obj\x86\Debug\Minggu 2 ComboBox Dan Radio Button.pdb
