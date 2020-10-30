@@ -15,11 +15,25 @@ Materi Video :
 07:22 - 2. Membuat script program
 07:47 - 2.1. Mengganti nama setiap control sesuai fungsinya
 08:53 - 2.2. Membuat script
-09:14 - 2.2.1 Deklarasi variable
-10:22 - 2.2.2 Menerapkan rumus ke dalam script
-11:20 - 2.2.3 Menentukan jenis kelamin yang di pilih user
-11:27 - 2.2.3.1 Menambahkan pilihan di ComboBox 
-12:05 - 2.2.3.2 Membuat percabangan sesuai inputan jenis kelamin
+09:14 - 2.2.1. Deklarasi variable
+10:22 - 2.2.2. Menerapkan rumus ke dalam script
+11:20 - 2.2.3. Menentukan jenis kelamin yang di pilih user
+11:27 - 2.2.3.1. Menambahkan pilihan di ComboBox 
+12:05 - 2.2.3.2. Membuat percabangan sesuai inputan jenis kelamin
+16:20 - 2.2.4. Mengeluarkan hasil perhitungan dan status
+17:14 - 2.2.5. Mencoba menjalankan program
+18:06 - 3. Membuat security atau validasi keamanan
+19:30 - 3.1. Kemananan Output IMT
+19:43 - 3.2. Kemananan ComboBox Jenis Kelamin
+20:50 - 3.3. Kemananan TexBox Berat dan Tinggi Badan
+21:14 - 3.3.1. Atur berat badan hanya menerima number
+22:31 - 3.3.2. Atur tinggi badan hanya menerima number
+22:50 - 3.3.3. Mengecek berat badan apakah sudah di isi atau belum
+25:05 - 3.3.4. Mengecek tinggi badan apakah sudah di isi atau belum
+25:32 - 3.3.5. Mencoba menjalankan program
+26:34 - 3.3.6. Menggunakan fungsi FormatNumber
+27:17 - Kesimpulan
+27:36 - Penutup
 
 
 
