@@ -1,0 +1,9 @@
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Prototype\Mentukan BMI\Mentukan BMI\bin\Debug\Mentukan BMI.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Prototype\Mentukan BMI\Mentukan BMI\bin\Debug\Mentukan BMI.pdb
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Prototype\Mentukan BMI\Mentukan BMI\bin\Debug\Mentukan BMI.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Prototype\Mentukan BMI\Mentukan BMI\obj\x86\Debug\Mentukan_BMI.Form1.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Prototype\Mentukan BMI\Mentukan BMI\obj\x86\Debug\Mentukan_BMI.Resources.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Prototype\Mentukan BMI\Mentukan BMI\obj\x86\Debug\Mentukan BMI.vbproj.GenerateResource.Cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Prototype\Mentukan BMI\Mentukan BMI\obj\x86\Debug\Mentukan BMI.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Prototype\Mentukan BMI\Mentukan BMI\obj\x86\Debug\Mentukan BMI.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Prototype\Mentukan BMI\Mentukan BMI\obj\x86\Debug\Mentukan BMI.pdb
