@@ -1,0 +1,9 @@
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 2 - (Mengenal Label, Textbox dan Button)\MInggu1\MInggu1\bin\Debug\MInggu1.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 2 - (Mengenal Label, Textbox dan Button)\MInggu1\MInggu1\bin\Debug\MInggu1.pdb
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 2 - (Mengenal Label, Textbox dan Button)\MInggu1\MInggu1\bin\Debug\MInggu1.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 2 - (Mengenal Label, Textbox dan Button)\MInggu1\MInggu1\obj\x86\Debug\MInggu1.Form1.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 2 - (Mengenal Label, Textbox dan Button)\MInggu1\MInggu1\obj\x86\Debug\MInggu1.Resources.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 2 - (Mengenal Label, Textbox dan Button)\MInggu1\MInggu1\obj\x86\Debug\MInggu1.vbproj.GenerateResource.Cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 2 - (Mengenal Label, Textbox dan Button)\MInggu1\MInggu1\obj\x86\Debug\MInggu1.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 2 - (Mengenal Label, Textbox dan Button)\MInggu1\MInggu1\obj\x86\Debug\MInggu1.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 2 - (Mengenal Label, Textbox dan Button)\MInggu1\MInggu1\obj\x86\Debug\MInggu1.pdb
