@@ -3,7 +3,6 @@ Nama: Isep Lutpi Nur
 Npm: 2113191079
 
 Materi Video :
-
 00:00 - Pendahuluan
 00:18 - Penjelasan studi kasus
 01:38 - Penjelasan tahapan membuat program
@@ -17,10 +16,15 @@ Materi Video :
 07:47 - 2.1. Mengganti nama setiap control sesuai fungsinya
 08:53 - 2.2. Membuat script
 09:14 - 2.2.1 Deklarasi variable
-10:22 - 2.2.3 Menerapkan rumus ke dalam script
+10:22 - 2.2.2 Menerapkan rumus ke dalam script
+11:20 - 2.2.3 Menentukan jenis kelamin yang di pilih user
+11:27 - 2.2.3.1 Menambahkan pilihan di ComboBox 
+12:05 - 2.2.3.2 Membuat percabangan sesuai inputan jenis kelamin
 
 
 
-Source Code : 
+
+
+Source Code : https://drive.google.com/drive/folders/1_7aYweLrzT23E2N8j_PJ_xy1FqwuO4y7?usp=sharing
 
 Playlist Visual Basic 2010 : 
