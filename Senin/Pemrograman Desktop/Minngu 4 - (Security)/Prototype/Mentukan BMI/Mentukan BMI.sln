@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mentukan BMI", "Mentukan BMI\Mentukan BMI.vbproj", "{DC1FEE29-A8AF-4B7E-B9EE-61C782033DA3}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mentukan IMT", "Mentukan BMI\Mentukan IMT.vbproj", "{DC1FEE29-A8AF-4B7E-B9EE-61C782033DA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

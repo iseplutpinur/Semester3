@@ -27,9 +27,9 @@
                 ElseIf (nilai >= 17 And nilai < 23) Then
                     status = "Normal"
                 ElseIf (nilai >= 23 And nilai <= 27) Then
-                    status = "Normal"
+                    status = "Kegemukan"
                 ElseIf nilai > 27 Then
-                    status = "Normal"
+                    status = "Obesitas"
                 End If
             Else
                 If nilai < 18 Then
@@ -37,9 +37,9 @@
                 ElseIf (nilai >= 18 And nilai < 25) Then
                     status = "Normal"
                 ElseIf (nilai >= 25 And nilai <= 27) Then
-                    status = "Normal"
+                    status = "Kegemukan"
                 ElseIf nilai > 27 Then
-                    status = "Normal"
+                    status = "Obesitas"
                 End If
             End If
 
@@ -52,5 +52,9 @@
         cbJenisKelamin.Items.Add("Wanita")
         cbJenisKelamin.Items.Add("Pria")
         cbJenisKelamin.SelectedIndex = 0
+    End Sub
+
+    Private Sub cbJenisKelamin_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles cbJenisKelamin.KeyPress
+        e.Handled = True
     End Sub
 End Class

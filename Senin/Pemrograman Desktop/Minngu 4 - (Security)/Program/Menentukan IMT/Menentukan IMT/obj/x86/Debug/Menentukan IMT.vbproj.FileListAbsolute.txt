@@ -1,0 +1,12 @@
+C:\Users\Iseplutpinur\AppData\Local\Temporary Projects\Menentukan IMT\bin\Debug\Menentukan IMT.exe
+C:\Users\Iseplutpinur\AppData\Local\Temporary Projects\Menentukan IMT\bin\Debug\Menentukan IMT.pdb
+C:\Users\Iseplutpinur\AppData\Local\Temporary Projects\Menentukan IMT\bin\Debug\Menentukan IMT.xml
+C:\Users\Iseplutpinur\AppData\Local\Temporary Projects\Menentukan IMT\obj\x86\Debug\Menentukan_IMT.Form1.resources
+C:\Users\Iseplutpinur\AppData\Local\Temporary Projects\Menentukan IMT\obj\x86\Debug\Menentukan_IMT.Resources.resources
+C:\Users\Iseplutpinur\AppData\Local\Temporary Projects\Menentukan IMT\obj\x86\Debug\Menentukan IMT.vbproj.GenerateResource.Cache
+C:\Users\Iseplutpinur\AppData\Local\Temporary Projects\Menentukan IMT\obj\x86\Debug\Menentukan IMT.exe
+C:\Users\Iseplutpinur\AppData\Local\Temporary Projects\Menentukan IMT\obj\x86\Debug\Menentukan IMT.xml
+C:\Users\Iseplutpinur\AppData\Local\Temporary Projects\Menentukan IMT\obj\x86\Debug\Menentukan IMT.pdb
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Program\Menentukan IMT\Menentukan IMT\obj\x86\Debug\Menentukan IMT.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Program\Menentukan IMT\Menentukan IMT\obj\x86\Debug\Menentukan IMT.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minngu 4 - (Security)\Program\Menentukan IMT\Menentukan IMT\obj\x86\Debug\Menentukan IMT.pdb
