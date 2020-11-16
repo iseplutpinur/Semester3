@@ -1,0 +1,9 @@
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\bin\Debug\UTS.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\bin\Debug\UTS.pdb
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\bin\Debug\UTS.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\Debug\UTS.Form1.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\Debug\UTS.Resources.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\Debug\UTS.vbproj.GenerateResource.Cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\Debug\UTS.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\Debug\UTS.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\Debug\UTS.pdb

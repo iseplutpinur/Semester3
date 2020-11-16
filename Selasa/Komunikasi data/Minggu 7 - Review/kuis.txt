@@ -1,0 +1,56 @@
+layer pada TCP/IP yang bertanggung jawab merubah bit data menjadi sinya adalah
+Pilih salah satu:
+a. Network Access //
+b. Application
+c. Internetwork
+d. Transport
+
+Jalur Fisik tempat pesan dikirim dari pengirim ke penerima disebut
+Pilih salah satu:
+a. Penerima
+b. Pesan
+c. Media transmisi //
+d. Protokol
+
+Berapa kira-kira jarak orbit satelit geo stasioner
+Pilih salah satu:
+a. 40.000 Km
+b. 10.000 Km
+c. 35.000 Km //
+d. 25.000 Km
+
+Protokol yang dipergunakan untuk komunikasi pada internet adalah
+Pilih salah satu:
+a. TCP/ip //
+b. Appletalk
+c. SPX/IPX
+d. netBeui
+
+Layer kedua pada model TCP/IP adalah
+Pilih salah satu:
+a. Application
+b. Internetwork //
+c. Network Access
+d. Transport
+
+Perangkat Hardware yang berfungsi mengirimkan data ke alamat network yang berbeda disebut
+Pilih salah satu:
+a. Router //
+b. repeter
+c. Switching
+d. Hub
+
+Mode switching yang menbentuk koneksi jaringan fisik merupakan ciri dari
+Pilih salah satu:
+a. Packet Switching
+b. Data Switching
+c. Sirkuit switching //
+d. Virtual Switching
+
+
+Yang bukan kelebihan dari kabel fiber optik adalah
+Pilih salah satu:
+a. Mudah diimpementasikan //
+b. Memiliki Bandwith yang besar
+c. Tahan terhadap gangguan elektro magnetik
+d. Jarak jangkauan yang sangat jauh
