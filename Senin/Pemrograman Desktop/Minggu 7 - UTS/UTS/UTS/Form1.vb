@@ -3,42 +3,34 @@
 'Prodi : Teknik Informatika / A2
 Public Class Form1
     Private Sub cbMakNasiGoreng_CheckedChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cbMakNasiGoreng.CheckedChanged
-        tMakanan()
         captureTotal()
     End Sub
 
     Private Sub cbMakNasiRamen_CheckedChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cbMakNasiRamen.CheckedChanged
-        tMakanan()
         captureTotal()
     End Sub
 
     Private Sub cbMakNasiRemes_CheckedChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cbMakNasiRemes.CheckedChanged
-        tMakanan()
         captureTotal()
     End Sub
 
     Private Sub cbMakNasiUduk_CheckedChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cbMakNasiUduk.CheckedChanged
-        tMakanan()
         captureTotal()
     End Sub
 
     Private Sub cbMinAirMineral_CheckedChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cbMinAirMineral.CheckedChanged
-        tMinuman()
         captureTotal()
     End Sub
 
     Private Sub cbMinEsCampur_CheckedChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cbMinEsCampur.CheckedChanged
-        tMinuman()
         captureTotal()
     End Sub
 
     Private Sub cbMinEsJuice_CheckedChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cbMinEsJuice.CheckedChanged
-        tMinuman()
         captureTotal()
     End Sub
 
     Private Sub cbMinTehManis_CheckedChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cbMinTehManis.CheckedChanged
-        tMinuman()
         captureTotal()
     End Sub
 
@@ -71,41 +63,38 @@ Public Class Form1
         cekVisibleDiscount()
     End Sub
 
-    Sub tMakanan()
-        Dim total As Integer = 0
+    Sub captureTotal()
+        Dim totalMinuman As Integer = 0
+        Dim totalMakanan As Integer = 0
+
         If cbMakNasiGoreng.Checked Then
-            total = total + 12000
+            totalMakanan = totalMakanan + 12000
         End If
         If cbMakNasiRamen.Checked Then
-            total = total + 17000
+            totalMakanan = totalMakanan + 17000
         End If
         If cbMakNasiRemes.Checked Then
-            total = total + 15000
+            totalMakanan = totalMakanan + 15000
         End If
         If cbMakNasiUduk.Checked Then
-            total = total + 10000
+            totalMakanan = totalMakanan + 10000
         End If
-        tbMakTotal.Text = total
-    End Sub
+        tbMakTotal.Text = totalMakanan
 
-    Sub tMinuman()
-        Dim total As Integer = 0
         If cbMinTehManis.Checked Then
-            total = total + 5000
+            totalMinuman = totalMinuman + 5000
         End If
         If cbMinEsCampur.Checked Then
-            total = total + 8000
+            totalMinuman = totalMinuman + 8000
         End If
         If cbMinEsJuice.Checked Then
-            total = total + 7000
+            totalMinuman = totalMinuman + 7000
         End If
         If cbMinAirMineral.Checked Then
-            total = total + 4000
+            totalMinuman = totalMinuman + 4000
         End If
-        tbMinTotal.Text = total
-    End Sub
+        tbMinTotal.Text = totalMinuman
 
-    Sub captureTotal()
         tbTotal.Text = Val(tbMakTotal.Text) + Val(tbMinTotal.Text)
     End Sub
 
@@ -116,5 +105,4 @@ Public Class Form1
             tbGtDisValue.Enabled = False
         End If
     End Sub
-
 End Class
