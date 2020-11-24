@@ -1,0 +1,38 @@
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.exe
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.pdb
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.xml
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.Form1.resources
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.Resources.resources
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.exe
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.xml
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.pdb
+D:\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.exe
+D:\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.xml
+D:\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.pdb
+D:\Projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.exe
+D:\Projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.pdb
+D:\Projects\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.xml
+D:\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.Form1.resources
+D:\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.Resources.resources
+D:\Projects\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.vbproj.GenerateResource.Cache
+E:\Kuliah\VisualStudio\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.exe
+E:\Kuliah\VisualStudio\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.xml
+E:\Kuliah\VisualStudio\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.pdb
+E:\Kuliah\VisualStudio\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.exe
+E:\Kuliah\VisualStudio\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.pdb
+E:\Kuliah\VisualStudio\WindowsApplication21\WindowsApplication21\bin\Debug\WindowsApplication21.xml
+E:\Kuliah\VisualStudio\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.Form1.resources
+E:\Kuliah\VisualStudio\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.Resources.resources
+E:\Kuliah\VisualStudio\WindowsApplication21\WindowsApplication21\obj\x86\Debug\WindowsApplication21.vbproj.GenerateResource.Cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\obj\x86\Debug\WindowsApplication21.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\obj\x86\Debug\WindowsApplication21.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\obj\x86\Debug\WindowsApplication21.pdb
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\bin\Debug\WindowsApplication21.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\bin\Debug\WindowsApplication21.pdb
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\bin\Debug\WindowsApplication21.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\obj\x86\Debug\WindowsApplication21.Form1.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\obj\x86\Debug\WindowsApplication21.Resources.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\obj\x86\Debug\WindowsApplication21.vbproj.GenerateResource.Cache
