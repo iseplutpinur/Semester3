@@ -79,8 +79,6 @@ Public Class Form1
         If cbMakNasiUduk.Checked Then
             totalMakanan = totalMakanan + 10000
         End If
-        tbMakTotal.Text = totalMakanan
-
         If cbMinTehManis.Checked Then
             totalMinuman = totalMinuman + 5000
         End If
@@ -93,6 +91,8 @@ Public Class Form1
         If cbMinAirMineral.Checked Then
             totalMinuman = totalMinuman + 4000
         End If
+
+        tbMakTotal.Text = totalMakanan
         tbMinTotal.Text = totalMinuman
 
         tbTotal.Text = Val(tbMakTotal.Text) + Val(tbMinTotal.Text)

@@ -7,3 +7,5 @@ D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\De
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\Debug\UTS.exe
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\Debug\UTS.xml
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\Debug\UTS.pdb
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\Debug\UTS.vbprojAssemblyReference.cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 7 - UTS\UTS\UTS\obj\x86\Debug\UTS.vbproj.CoreCompileInputs.cache
