@@ -1,0 +1,35 @@
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Form1.resources
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Resources.resources
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.exe
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.xml
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.pdb
+D:\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.exe
+D:\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.xml
+D:\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.pdb
+D:\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+D:\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+D:\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+D:\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Form1.resources
+D:\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Resources.resources
+D:\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.vbproj.GenerateResource.Cache
+D:\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Form2.resources
+D:\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Form3.resources
+D:\Projects\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Form4.resources
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.exe
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.xml
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.pdb
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Form1.resources
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Form2.resources
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Form3.resources
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Form4.resources
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.Resources.resources
+E:\Kuliah\VisualStudio\WindowsApplication16\WindowsApplication16\obj\x86\Debug\WindowsApplication16.vbproj.GenerateResource.Cache

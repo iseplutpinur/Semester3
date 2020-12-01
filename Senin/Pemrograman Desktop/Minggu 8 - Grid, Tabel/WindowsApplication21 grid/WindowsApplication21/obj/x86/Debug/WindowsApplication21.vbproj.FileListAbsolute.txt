@@ -36,3 +36,5 @@ D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApp
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\obj\x86\Debug\WindowsApplication21.Form1.resources
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\obj\x86\Debug\WindowsApplication21.Resources.resources
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\obj\x86\Debug\WindowsApplication21.vbproj.GenerateResource.Cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\obj\x86\Debug\WindowsApplication21.vbprojAssemblyReference.cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 8 - Grid, Tabel\WindowsApplication21 grid\WindowsApplication21\obj\x86\Debug\WindowsApplication21.vbproj.CoreCompileInputs.cache

@@ -8,7 +8,7 @@
         listview1.Columns.Add("Satuan", 70, HorizontalAlignment.Left)
         listview1.Columns.Add("Jml. Beli", 60, HorizontalAlignment.Left)
         listview1.Columns.Add("Total", 100, HorizontalAlignment.Left)
-        ListView1.View = View.Details
+        listview1.View = View.Details
         listview1.GridLines = True
         no = 1
         gtotal = 0

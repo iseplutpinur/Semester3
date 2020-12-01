@@ -1,0 +1,18 @@
+C:\Users\Iseplutpinur\Documents\Tugas\EvaluasiPertemuan4\EvaluasiPertemuan4\bin\Debug\EvaluasiPertemuan4.exe
+C:\Users\Iseplutpinur\Documents\Tugas\EvaluasiPertemuan4\EvaluasiPertemuan4\bin\Debug\EvaluasiPertemuan4.pdb
+C:\Users\Iseplutpinur\Documents\Tugas\EvaluasiPertemuan4\EvaluasiPertemuan4\bin\Debug\EvaluasiPertemuan4.xml
+C:\Users\Iseplutpinur\Documents\Tugas\EvaluasiPertemuan4\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.Form1.resources
+C:\Users\Iseplutpinur\Documents\Tugas\EvaluasiPertemuan4\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.Resources.resources
+C:\Users\Iseplutpinur\Documents\Tugas\EvaluasiPertemuan4\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.vbproj.GenerateResource.Cache
+C:\Users\Iseplutpinur\Documents\Tugas\EvaluasiPertemuan4\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.exe
+C:\Users\Iseplutpinur\Documents\Tugas\EvaluasiPertemuan4\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.xml
+C:\Users\Iseplutpinur\Documents\Tugas\EvaluasiPertemuan4\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.pdb
+C:\Users\Iseplutpinur\Downloads\2113191079 Isep Lutpi Nur\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.exe
+C:\Users\Iseplutpinur\Downloads\2113191079 Isep Lutpi Nur\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.xml
+C:\Users\Iseplutpinur\Downloads\2113191079 Isep Lutpi Nur\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.pdb
+C:\Users\Iseplutpinur\Downloads\2113191079 Isep Lutpi Nur\EvaluasiPertemuan4\bin\Debug\EvaluasiPertemuan4.exe
+C:\Users\Iseplutpinur\Downloads\2113191079 Isep Lutpi Nur\EvaluasiPertemuan4\bin\Debug\EvaluasiPertemuan4.pdb
+C:\Users\Iseplutpinur\Downloads\2113191079 Isep Lutpi Nur\EvaluasiPertemuan4\bin\Debug\EvaluasiPertemuan4.xml
+C:\Users\Iseplutpinur\Downloads\2113191079 Isep Lutpi Nur\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.Form1.resources
+C:\Users\Iseplutpinur\Downloads\2113191079 Isep Lutpi Nur\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.Resources.resources
+C:\Users\Iseplutpinur\Downloads\2113191079 Isep Lutpi Nur\EvaluasiPertemuan4\obj\x86\Debug\EvaluasiPertemuan4.vbproj.GenerateResource.Cache

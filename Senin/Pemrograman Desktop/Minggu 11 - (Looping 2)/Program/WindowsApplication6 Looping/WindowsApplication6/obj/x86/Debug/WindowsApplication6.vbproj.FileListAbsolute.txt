@@ -1,0 +1,32 @@
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Form1.resources
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Resources.resources
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.exe
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.xml
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.pdb
+D:\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.exe
+D:\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.xml
+D:\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.pdb
+E:\Kuliah\VisualStudio\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.exe
+E:\Kuliah\VisualStudio\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.xml
+E:\Kuliah\VisualStudio\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.pdb
+E:\Kuliah\VisualStudio\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+E:\Kuliah\VisualStudio\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+E:\Kuliah\VisualStudio\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+E:\Kuliah\VisualStudio\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Form1.resources
+E:\Kuliah\VisualStudio\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Resources.resources
+E:\Kuliah\VisualStudio\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.exe
+E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.xml
+E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.pdb
+E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Form1.resources
+E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Resources.resources
+E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
