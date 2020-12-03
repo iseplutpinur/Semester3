@@ -30,3 +30,14 @@ E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\bin\Debug
 E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Form1.resources
 E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Resources.resources
 E:\Kuliah\VisualStudio\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 11 - (Looping 2)\Program\WindowsApplication6 Looping\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 11 - (Looping 2)\Program\WindowsApplication6 Looping\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 11 - (Looping 2)\Program\WindowsApplication6 Looping\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 11 - (Looping 2)\Program\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.vbprojAssemblyReference.cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 11 - (Looping 2)\Program\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Form1.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 11 - (Looping 2)\Program\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Resources.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 11 - (Looping 2)\Program\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.vbproj.GenerateResource.cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 11 - (Looping 2)\Program\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.vbproj.CoreCompileInputs.cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 11 - (Looping 2)\Program\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 11 - (Looping 2)\Program\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 11 - (Looping 2)\Program\WindowsApplication6 Looping\WindowsApplication6\obj\x86\Debug\WindowsApplication6.pdb
