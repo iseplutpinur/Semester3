@@ -1,0 +1,70 @@
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.exe
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.pdb
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.xml
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Resources.resources
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.exe
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.xml
+c:\users\dhimas egin\documents\visual studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.pdb
+C:\Users\dhimas egin\Documents\Visual Studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frminput.resources
+C:\Users\dhimas egin\Documents\Visual Studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmhapus.resources
+C:\Users\dhimas egin\Documents\Visual Studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmupdate.resources
+C:\Users\dhimas egin\Documents\Visual Studio 2010\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form4.resources
+D:\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.exe
+D:\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.xml
+D:\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.pdb
+D:\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.exe
+D:\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.pdb
+D:\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.xml
+D:\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frminput.resources
+D:\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmhapus.resources
+D:\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmupdate.resources
+D:\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form4.resources
+D:\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Resources.resources
+D:\Projects\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.GenerateResource.Cache
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.exe
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.xml
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.pdb
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.exe
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.pdb
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.xml
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frminput.resources
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmhapus.resources
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmupdate.resources
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form4.resources
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Resources.resources
+E:\Kuliah\VisualStudio\WindowsApplication19\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.GenerateResource.Cache
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.exe
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.xml
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.pdb
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\bin\Debug\WindowsApplication19.exe
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\bin\Debug\WindowsApplication19.pdb
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\bin\Debug\WindowsApplication19.xml
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frminput.resources
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmhapus.resources
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmupdate.resources
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form4.resources
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Resources.resources
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.GenerateResource.Cache
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\bin\Debug\MySql.Data.dll
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbprojAssemblyReference.cache
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.CoreCompileInputs.cache
+E:\Kuliah\VisualStudio\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.CopyComplete
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.pdb
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\bin\Debug\WindowsApplication19.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\bin\Debug\WindowsApplication19.pdb
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\bin\Debug\WindowsApplication19.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frminput.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmhapus.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmupdate.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form4.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Resources.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.GenerateResource.Cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form5.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbprojAssemblyReference.cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.CoreCompileInputs.cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.CopyComplete
