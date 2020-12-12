@@ -8,11 +8,11 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{F6963DF2-58AB-4DED-8938-EF4F971B4746}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>WindowsApplication19.My.MyApplication</StartupObject>
+    <StartupObject>WindowsApplication19.frminput</StartupObject>
     <RootNamespace>WindowsApplication19</RootNamespace>
     <AssemblyName>WindowsApplication19</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <MyType>WindowsForms</MyType>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
   </PropertyGroup>
