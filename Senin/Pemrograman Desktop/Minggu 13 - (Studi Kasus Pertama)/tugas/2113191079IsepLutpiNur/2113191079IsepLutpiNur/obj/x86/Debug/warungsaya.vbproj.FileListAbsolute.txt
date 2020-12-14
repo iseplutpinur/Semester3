@@ -1,0 +1,12 @@
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\bin\Debug\warungsaya.exe
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\bin\Debug\warungsaya.pdb
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\bin\Debug\warungsaya.xml
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\obj\x86\Debug\warungsaya.frmInput.resources
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\obj\x86\Debug\warungsaya.Resources.resources
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\obj\x86\Debug\warungsaya.exe
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\obj\x86\Debug\warungsaya.xml
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\obj\x86\Debug\warungsaya.pdb
+C:\Users\iseplutpinur\AppData\Local\Temporary Projects\warungsaya\obj\x86\Debug\warungsaya.frmEdit.resources

@@ -63,8 +63,7 @@ D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApp
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmupdate.resources
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form4.resources
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Resources.resources
-D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.GenerateResource.Cache
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form5.resources
-D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbprojAssemblyReference.cache
-D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.CoreCompileInputs.cache
-D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.CopyComplete
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\GenerateResource.write.1.tlog

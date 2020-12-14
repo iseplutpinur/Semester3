@@ -1,0 +1,12 @@
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\bin\Debug\2113191079IsepLutpiNur.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\bin\Debug\2113191079IsepLutpiNur.pdb
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\bin\Debug\2113191079IsepLutpiNur.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\warungsaya.frmInput.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\warungsaya.frmEdit.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\warungsaya.Resources.resources
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.exe
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.xml
+D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.pdb

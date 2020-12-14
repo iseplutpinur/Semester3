@@ -106,14 +106,12 @@ Public Class Form5
         If keyword = "" Then
             str = "SELECT * FROM mahasiswa ORDER BY npm"
         Else
-            str = "SELECT * FROM mahasiswa WHERE 
-                    npm LIKE '%" & keyword & "%' OR
-                    nama LIKE '%" & keyword & "%' OR
-                    alamat LIKE '%" & keyword & "%' OR
-                    agama LIKE '%" & keyword & "%' OR
-                    kota LIKE '%" & keyword & "%'
-
-                    ORDER BY npm"
+            str = "SELECT * FROM mahasiswa WHERE npm LIKE '%" & _
+            keyword & "%' OR nama LIKE '%" & _
+            keyword & "%' OR alamat LIKE '%" & _
+            keyword & "%' OR agama LIKE '%" & _
+            keyword & "%' OR kota LIKE '%" & _
+            keyword & "%' ORDER BY npm"
         End If
 
         Try
