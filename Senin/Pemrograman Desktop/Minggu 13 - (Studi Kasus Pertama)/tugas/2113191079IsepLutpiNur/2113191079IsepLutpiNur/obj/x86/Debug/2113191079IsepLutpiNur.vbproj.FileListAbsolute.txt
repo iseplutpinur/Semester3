@@ -10,3 +10,17 @@ D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.exe
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.xml
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.pdb
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\bin\Debug\2113191079IsepLutpiNur.exe
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\bin\Debug\2113191079IsepLutpiNur.pdb
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\bin\Debug\2113191079IsepLutpiNur.xml
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\bin\Debug\MySql.Data.dll
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.vbprojAssemblyReference.cache
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\warungsaya.frmInput.resources
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\warungsaya.frmEdit.resources
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\warungsaya.Resources.resources
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.vbproj.GenerateResource.cache
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.vbproj.CoreCompileInputs.cache
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.vbproj.CopyComplete
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.exe
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.xml
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 13 - (Studi Kasus Pertama)\tugas\2113191079IsepLutpiNur\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.pdb

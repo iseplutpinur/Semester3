@@ -67,3 +67,16 @@ D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApp
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Kampus\Semester 3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.exe
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.xml
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.pdb
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\bin\Debug\WindowsApplication19.exe
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\bin\Debug\WindowsApplication19.pdb
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\bin\Debug\WindowsApplication19.xml
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frminput.resources
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmhapus.resources
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.frmupdate.resources
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form4.resources
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Form5.resources
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.Resources.resources
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 12 - (Database)\WindowsApplication19 database\WindowsApplication19\obj\x86\Debug\WindowsApplication19.vbproj.GenerateResource.Cache
