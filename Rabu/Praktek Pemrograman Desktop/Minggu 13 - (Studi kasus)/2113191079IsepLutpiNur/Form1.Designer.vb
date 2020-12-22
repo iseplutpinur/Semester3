@@ -38,10 +38,10 @@ Partial Class Form1
         Me.txtHarga = New System.Windows.Forms.TextBox()
         Me.txtKodeBarang = New System.Windows.Forms.TextBox()
         Me.Button1 = New System.Windows.Forms.Button()
-        Me.ListView1 = New System.Windows.Forms.ListView()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
+        Me.ListView1 = New System.Windows.Forms.ListView()
         Me.SuspendLayout()
         '
         'Label5
@@ -203,14 +203,6 @@ Partial Class Form1
         Me.Button1.Text = "Tambah"
         Me.Button1.UseVisualStyleBackColor = True
         '
-        'ListView1
-        '
-        Me.ListView1.Location = New System.Drawing.Point(16, 334)
-        Me.ListView1.Name = "ListView1"
-        Me.ListView1.Size = New System.Drawing.Size(358, 148)
-        Me.ListView1.TabIndex = 55
-        Me.ListView1.UseCompatibleStateImageBehavior = False
-        '
         'Button2
         '
         Me.Button2.Location = New System.Drawing.Point(107, 269)
@@ -241,15 +233,26 @@ Partial Class Form1
         Me.Button4.Text = "Keluar"
         Me.Button4.UseVisualStyleBackColor = True
         '
+        'ListView1
+        '
+        Me.ListView1.FullRowSelect = True
+        Me.ListView1.HideSelection = False
+        Me.ListView1.Location = New System.Drawing.Point(16, 326)
+        Me.ListView1.Margin = New System.Windows.Forms.Padding(4)
+        Me.ListView1.Name = "ListView1"
+        Me.ListView1.Size = New System.Drawing.Size(358, 162)
+        Me.ListView1.TabIndex = 59
+        Me.ListView1.UseCompatibleStateImageBehavior = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(387, 501)
+        Me.Controls.Add(Me.ListView1)
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
-        Me.Controls.Add(Me.ListView1)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
@@ -288,9 +291,9 @@ Partial Class Form1
     Friend WithEvents txtHarga As System.Windows.Forms.TextBox
     Friend WithEvents txtKodeBarang As System.Windows.Forms.TextBox
     Friend WithEvents Button1 As System.Windows.Forms.Button
-    Friend WithEvents ListView1 As System.Windows.Forms.ListView
     Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents Button3 As System.Windows.Forms.Button
     Friend WithEvents Button4 As System.Windows.Forms.Button
+    Friend WithEvents ListView1 As System.Windows.Forms.ListView
 
 End Class
