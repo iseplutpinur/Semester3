@@ -16,3 +16,6 @@ D:\Kampus\Semester3\Rabu\Praktek Pemrograman Desktop\Minggu 13 - (Studi kasus)\2
 D:\Kampus\Semester3\Rabu\Praktek Pemrograman Desktop\Minggu 13 - (Studi kasus)\2113191079IsepLutpiNur\obj\x86\Debug\_2113191079IsepLutpiNur.Form1.resources
 D:\Kampus\Semester3\Rabu\Praktek Pemrograman Desktop\Minggu 13 - (Studi kasus)\2113191079IsepLutpiNur\obj\x86\Debug\_2113191079IsepLutpiNur.Resources.resources
 D:\Kampus\Semester3\Rabu\Praktek Pemrograman Desktop\Minggu 13 - (Studi kasus)\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.vbproj.GenerateResource.Cache
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 14 - (Studi kasus dua)\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.exe
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 14 - (Studi kasus dua)\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.xml
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 14 - (Studi kasus dua)\2113191079IsepLutpiNur\obj\x86\Debug\2113191079IsepLutpiNur.pdb
