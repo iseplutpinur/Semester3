@@ -1,0 +1,15 @@
+Tugas 13
+1. Distribusi deskriptif dan frekuensi
+	A. deskriftif
+		1. Analyze
+		2. Descriptive statistic
+		3. Descriptives
+	B. Frekuensi
+		1. Analyze
+		2. Descriptive statistic
+		3. Frequencies
+
+2. Uji Validitas dan Reliability
+3. Uji Normalitas
+4. Uji Heteroskedestisitas, Autokorelasi, Linearitas dan Multikolinearitas
+5. Regresi Linear
