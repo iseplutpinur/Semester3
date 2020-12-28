@@ -92,7 +92,50 @@
  <a href="https://www.spssindonesia.com/2014/02/uji-autokorelasi-dengan-durbin-watson.html">https://www.spssindonesia.com/2014/02/uji-autokorelasi-dengan-durbin-watson.html</a>
 
  #### C. Linearitas
-
+ - Analyze
+ - Compare Means
+ - Means
+ - Dependent List:
+   - Y
+ - Independent List:
+   - X1
+   - X2
+ - Options
+ - Cell Statistics:
+   - Mean
+   - Number of Cases
+   - Standard Deviation
+ - Test for linearty (checked)
+ - Continue
+  <a href="https://www.spssindonesia.com/2014/02/uji-linearitas-dengan-program-spss.html">https://www.spssindonesia.com/2014/02/uji-linearitas-dengan-program-spss.html</a>
+  
  #### D. Multikolinearitas
+   - Analyze
+   - Regression
+   - Linear
+     - Dependent:
+       - Y
+     - Independents:
+       - X1
+       - X2
+   - Method(Enter)
+   - Statistics
+     - Estimates (checked)
+     - Model fit (checked)
+     - Covariance matrix(Checked)
+     - Collienarity diagnostics(checked)
+   - Continue
+ <a href="https://www.spssindonesia.com/2014/02/uji-multikolonieritas-dengan-melihat.html">https://www.spssindonesia.com/2014/02/uji-multikolonieritas-dengan-melihat.html</a>
+
 
 ### 5. Regresi Linear
+   - Analyze
+   - Regression
+   - Linear
+     - Dependent:
+       - Y
+     - Independents:
+       - X1
+       - X2
+   - Method(Enter)
+   <a href="https://www.spssindonesia.com/2017/03/uji-analisis-regresi-linear-sederhana.html">https://www.spssindonesia.com/2017/03/uji-analisis-regresi-linear-sederhana.htm</a>
