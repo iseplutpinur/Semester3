@@ -3,7 +3,7 @@
 ### 1. Distribusi deskriptif dan frekuensi
   #### A.  Deskriftif
    - Analyze
-   - Descriptive statistic   
+   - Descriptive statistic
    - Descriptives
 
   #### B. Frekuensi
@@ -35,7 +35,64 @@
     - X: \*ZPRED
     
 
-
 ### 4. Uji Heteroskedestisitas, Autokorelasi, Linearitas dan Multikolinearitas
+ #### A. Heteroskedestisitas
+   - Analyze
+   - Regression
+   - Linear
+     - Dependent:
+       - Y
+     - Independents:
+       - X1
+       - X2
+   - Method(Enter)
+   - Save
+   - Residuals
+   - Unstandardized (Checked)
+   - Continue
+   
+   - Transform
+   - Compute Variable
+   - Target variable 
+     - Abs_RES
+   - Numreric Expression
+     - ABS(RES_1)
+   - OK
+   
+   - Analyze
+   - Regression
+   - Linear
+     - Dependent:
+       - Abs_RES
+     - Independents:
+       - X1
+       - X2
+   - Method(Enter)
+   - Save
+   - Residuals
+   - Unstandardized (Unchecked)
+   - Continue
+ <a href="https://www.spssindonesia.com/2014/02/uji-heteroskedastisitas-glejser-spss.html">https://www.spssindonesia.com/2014/02/uji-heteroskedastisitas-glejser-spss.html</a>
+
+ #### B. Autokorelasi
+   - Analyze
+   - Regression
+   - Linear
+     - Dependent:
+       - Y
+     - Independents:
+       - X1
+       - X2
+   - Method(Enter)
+   - Statistics
+     - Estimates (checked)
+     - Model fit (checked)
+     - Durbin Waston (checked)
+   - Continue
+ <a href="https://www.spssindonesia.com/2014/02/uji-autokorelasi-dengan-durbin-watson.html">https://www.spssindonesia.com/2014/02/uji-autokorelasi-dengan-durbin-watson.html</a>
+
+ #### C. Linearitas
+
+ #### D. Multikolinearitas
 
 ### 5. Regresi Linear
