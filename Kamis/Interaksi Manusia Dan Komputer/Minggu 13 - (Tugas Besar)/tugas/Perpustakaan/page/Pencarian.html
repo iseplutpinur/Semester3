@@ -1,0 +1,285 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Pencarian Buku | Aplikasi Perpustakaan</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="../assets/img/favicon.ico">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../assets/css/normalize.css">
+    <link rel="stylesheet" href="../assets/style.css">
+    <link rel="stylesheet" href="../assets/css/responsive.css">
+    <link rel="stylesheet" href="../assets/js/datatables-bs4/css/dataTables.bootstrap4.min.css">
+</head>
+
+<body>
+
+    <div class="header-top-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div class="logo-area">
+                        <h3 style="color:white; padding-top: 10px;">Aplikasi Perpustakaan</h3>
+                        <!-- <a href="#"><img src="../assets/img/logo/logo.png" alt="" /></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Header Top Area -->
+    <br><br>
+    <!-- Breadcomb area Start-->
+    <div class="breadcomb-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="breadcomb-list">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <h3>Pencarian Buku</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-10 col-md-10 col-sm-6 col-xs-12">
+                                <div class="breadcomb-wp">
+                                    <input class="form-control mr-sm-2 " type="search"
+                                        placeholder="Masukan kata kunci pencarian" aria-label="m">
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-sm-6 col-xs-3">
+                                <button class="btn p-5 btn-pencarian"> Cari Buku </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcomb area End-->
+    <!-- Normal Table area Start-->
+    <div class="normal-table-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="normal-table-list mg-t-30">
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Hasil Pencarian:</h3>
+                            </div>
+                            <!-- /.card-header -->
+                            <div class="card-body">
+                                <table id="example2" class="table table-bordered table-hover table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th>No</th>
+                                            <th>Kode Buku</th>
+                                            <th>Judul Buku</th>
+                                            <th>Penulis Buku</th>
+                                            <th>Penerbit</th>
+                                            <th>Tahun</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td class="sorting_1">1</td>
+                                            <td>BKO004</td>
+                                            <td>Mikrotik Kung Fu : Kitab 1</td>
+                                            <td>Rendra Towidjojo</td>
+                                            <td>Jasakom</td>
+                                            <td>2016</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">2</td>
+                                            <td>BKO005</td>
+                                            <td>Windows 10 : Panduan Lengkap</td>
+                                            <td>Indra Susanto</td>
+                                            <td>Jasakom</td>
+                                            <td>2013</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">3</td>
+                                            <td>BKO006</td>
+                                            <td>Bisnis Online Revolution</td>
+                                            <td>Iwan Kenrianto</td>
+                                            <td>Gramedia</td>
+                                            <td>2015</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">5</td>
+                                            <td>BKO008</td>
+                                            <td>Mengolah Database Excel</td>
+                                            <td>Sumonggo Surya</td>
+                                            <td>Andi Publisher</td>
+                                            <td>2001</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">6</td>
+                                            <td>BKO009</td>
+                                            <td>Mahir Corel Draw Dalam 4 Hari</td>
+                                            <td>Yuli Kristanto S</td>
+                                            <td>Izuka Komp</td>
+                                            <td>2008</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">7</td>
+                                            <td>BKO010</td>
+                                            <td>The Magic of Photoshop</td>
+                                            <td>Hendri Hendratama</td>
+                                            <td>Informatika</td>
+                                            <td>2013</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">8</td>
+                                            <td>BKO011</td>
+                                            <td>Teknik Profesional Photoshop CS3</td>
+                                            <td>Rahmat Widiyanto</td>
+                                            <td>Elex Media Computindo</td>
+                                            <td>2009</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">9</td>
+                                            <td>BKO012</td>
+                                            <td>Jago SEO</td>
+                                            <td>Hidayat Rahmad</td>
+                                            <td>Elex Media Computindo</td>
+                                            <td>2011</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">10</td>
+                                            <td>BKO013</td>
+                                            <td>Hacking Wireless Network</td>
+                                            <td>Suryatama Udin</td>
+                                            <td>Jasakom</td>
+                                            <td>2014</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">11</td>
+                                            <td>BKO014</td>
+                                            <td>Blender 3D Modelling</td>
+                                            <td>Hendri Hendratama</td>
+                                            <td>Informatika</td>
+                                            <td>2015</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">12</td>
+                                            <td>BKO015</td>
+                                            <td>Aplikasi Berbasis Android</td>
+                                            <td>Hyua Hendra La</td>
+                                            <td>Moklet Publisher</td>
+                                            <td>2019</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">13</td>
+                                            <td>BKO016</td>
+                                            <td>Membangun Aplikasi ASP</td>
+                                            <td>Hendro SPd</td>
+                                            <td>Moklet Publisher</td>
+                                            <td>2020</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">14</td>
+                                            <td>BKO017</td>
+                                            <td>Basis Data Kebun Binatang</td>
+                                            <td>Ifa Khoirunnisa</td>
+                                            <td>Moklet Publisher</td>
+                                            <td>2018</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">15</td>
+                                            <td>BKO018</td>
+                                            <td>Buku Panduan ASUS</td>
+                                            <td>Herman Dzumavo</td>
+                                            <td>Samsara</td>
+                                            <td>2008</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">16</td>
+                                            <td>BKO019</td>
+                                            <td>The Power of Microsoft Edge</td>
+                                            <td>Steven Reward</td>
+                                            <td>Duston Magz</td>
+                                            <td>2017</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">17</td>
+                                            <td>BKO020</td>
+                                            <td>MySQL Dasar dan Implementasi</td>
+                                            <td>Supratman Efendi</td>
+                                            <td>Ilmukom</td>
+                                            <td>2014</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">18</td>
+                                            <td>BKO021</td>
+                                            <td>Nippon Against World</td>
+                                            <td>Hasirama Tadashi</td>
+                                            <td>Sung Yang</td>
+                                            <td>2009</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">20</td>
+                                            <td>BKO023</td>
+                                            <td>Fashion Paris</td>
+                                            <td>Amire Melaine</td>
+                                            <td>FranceTime</td>
+                                            <td>2018</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="sorting_1">21</td>
+                                            <td>BKO024</td>
+                                            <td>Unreleashed Journal</td>
+                                            <td>Timothy Law</td>
+                                            <td>Askars</td>
+                                            <td>2017</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <!-- /.card-body -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Normal Table area End-->
+    <!-- Start Footer area-->
+    <div class="footer-copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="footer-copy-right">
+                        <p>Copyright © 2020 Aplikasi Perpustakaan, Isep Lutpi Nur</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/datatables/jquery.dataTables.min.js"></script>
+    <script src="../assets/js/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="../assets/js/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="../assets/js/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <!-- page script -->
+    <script>
+        $(function () {
+            $('#example2').DataTable({
+                "paging": true,
+                "lengthChange": false,
+                "searching": false,
+                "ordering": true,
+                "info": true,
+                "autoWidth": false,
+                "responsive": true,
+            });
+        });
+    </script>
+</body>
+
+</html>
