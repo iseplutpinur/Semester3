@@ -1,0 +1,8 @@
+css/sb-admin-2.min.css
+vendor/fontawesome-free
+vendor/jquery/jquery.min.js
+vendor/jquery-easing
+vendor/js/sb-admin-2.min.js
+
+Buat tabel hak akses
+Pencarian Semua orang
