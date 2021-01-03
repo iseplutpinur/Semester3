@@ -316,6 +316,7 @@
     <script>
         const tbl1 = document.getElementById("tbl1");
         const tbl2 = document.getElementById("tbl2");
+        let temp = [];
         let strtbl = ``;
         let no = 0;
         DataSource.peminjaman.slice().reverse().forEach(dtpeminjaman => {
@@ -355,18 +356,19 @@
             })
 
             document.querySelector(".daftar-kembali").innerHTML = `Daftar Buku. Kembali (${b_kembali}/${pinjam.length})`;
+            temp[10] = b_kembali;
+            temp[11] = pinjam.length;
 
             let strtblmodal = ``;
             let no = 0;
             pinjam.forEach(e => {
-                console.log(e);
                 if (e.STATUS == "Belum Kembali") {
                     strtblmodal += `
                 <tr>
                                     <td>${++no}</td>
                                     <td>${getBukuById(e.ID_BUKU).TITLE}</td>
-                                    <td>Rp. ${e.DENDA}</td>
-                                    <td><button class="btn btn-success btn-xs" id="19"><i class="fa fa-fw fa-arrow-right"></i>  Sudah Kembali</button></td>
+                                    <td id="tbldenda${e.ID_DIPINJAM}">Rp. ${e.DENDA}</td>
+                                    <td id="tbltgl${e.ID_DIPINJAM}"><button class="btn btn-success btn-xs" id="19" onclick="kembalikanBuku('${e.ID_DIPINJAM}')"><i class="fa fa-fw fa-arrow-right"></i>  Sudah Kembali</button></td>
                                 </tr>
                 `;
                 } else {
@@ -385,6 +387,22 @@
 
         }
 
+        function kembalikanBuku(ID_DIPINJAM = null) {
+            const indexDS = getIddDtailPinjam(ID_DIPINJAM);
+            let d = new Date();
+            const status = "Sudah Kembali";
+            const tanggal_kembali = `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
+
+
+            DataSource.detail_pinjam[indexDS].STATUS = status;
+            DataSource.detail_pinjam[indexDS].TGL_KEMBALI = tanggal_kembali;
+            document.getElementById("tbldenda" + ID_DIPINJAM).innerHTML = status;
+            document.getElementById("tbltgl" + ID_DIPINJAM).innerHTML = tanggal_kembali;
+            temp[10] = Number(temp[10]) + 1;
+            document.querySelector(".daftar-kembali").innerHTML = `Daftar Buku. Kembali (${temp[10]}/${temp[11]})`;
+
+
+        }
 
         // Call the dataTables jQuery plugin
         $(document).ready(function () {

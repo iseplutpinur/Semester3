@@ -11,292 +11,292 @@ const DataSource = JSON.parse(`{
             "NO_TELP": "085798132505",
             "ALAMAT": "Cianjur",
             "PHOTO": "me_face.jpg",
-            "DTE_CREATED": "2017-06-14"
+            "DTE_CREATED": "2020-06-14"
         },
         {
             "ID_ADMIN": "AD002",
-            "USERNAME": "sahid",
+            "USERNAME": "joshua",
             "PASSWORD": "21232f297a57a5a743894a0e4a801fc3",
             "LAST_LOGIN": "28-12-2020 15:56:26",
             "ROLE": "admin",
-            "FULLNAME": "Sulaeman Sahid",
+            "FULLNAME": "Joshua Dehary Butar butar",
             "JENKEL": null,
             "NO_TELP": null,
             "ALAMAT": null,
             "PHOTO": "huga.jpg",
-            "DTE_CREATED": "2017-06-16"
+            "DTE_CREATED": "2020-06-16"
         },
         {
             "ID_ADMIN": "AD003",
-            "USERNAME": "hasim",
+            "USERNAME": "deri",
             "PASSWORD": "d094c0a6c7ec4f01f75837ace20925fa",
-            "LAST_LOGIN": "16-07-2017 08:47:03",
+            "LAST_LOGIN": "16-07-2020 08:47:03",
             "ROLE": "superadmin",
-            "FULLNAME": "Hasim Rochmad",
+            "FULLNAME": "Deri Kurniawan",
             "JENKEL": "L",
             "NO_TELP": "088788899",
             "ALAMAT": "Jl semeru",
             "PHOTO": "Image_2d6d9b2.jpg",
-            "DTE_CREATED": "2017-06-16"
+            "DTE_CREATED": "2020-06-16"
         },
         {
             "ID_ADMIN": "AD004",
-            "USERNAME": "tacik",
+            "USERNAME": "mtali",
             "PASSWORD": "977dca586aea0eac2674a89793e252ec",
-            "LAST_LOGIN": "26-06-2017 18:12:38",
+            "LAST_LOGIN": "26-06-2020 18:12:38",
             "ROLE": "admin",
-            "FULLNAME": "Riski Ananda W. P.",
+            "FULLNAME": "M. T. Ali Syech ahmad",
             "JENKEL": null,
             "NO_TELP": null,
             "ALAMAT": null,
             "PHOTO": "default.png",
-            "DTE_CREATED": "2017-06-20"
+            "DTE_CREATED": "2020-06-20"
         },
         {
             "ID_ADMIN": "AD005",
             "USERNAME": "ravi",
             "PASSWORD": "63dd3e154ca6d948fc380fa576343ba6",
-            "LAST_LOGIN": "24-06-2017 11:46:32",
+            "LAST_LOGIN": "24-06-2020 11:46:32",
             "ROLE": "admin",
-            "FULLNAME": "Rafi Agatha",
+            "FULLNAME": "Rafi Algippari",
             "JENKEL": null,
             "NO_TELP": null,
             "ALAMAT": null,
             "PHOTO": "default.png",
-            "DTE_CREATED": "2017-06-21"
+            "DTE_CREATED": "2020-06-21"
         },
         {
             "ID_ADMIN": "AD006",
-            "USERNAME": "rehan",
+            "USERNAME": "supriatna",
             "PASSWORD": "8625d1c13eaf0a75068d3cf2cdde43f6",
-            "LAST_LOGIN": "16-07-2017 14:46:29",
+            "LAST_LOGIN": "16-07-2020 14:46:29",
             "ROLE": "admin",
-            "FULLNAME": "Rehan Arroihan",
+            "FULLNAME": "Cece Supriatna",
             "JENKEL": "L",
             "NO_TELP": "0897789088",
             "ALAMAT": "Jl Jalan id",
             "PHOTO": "stdmp.png",
-            "DTE_CREATED": "2017-06-24"
+            "DTE_CREATED": "2020-06-24"
         },
         {
             "ID_ADMIN": "AD007",
-            "USERNAME": "rasta",
+            "USERNAME": "adistia",
             "PASSWORD": "25f423bce283a8d0cbb66252da5d3cdd",
-            "LAST_LOGIN": "11-07-2017 07:26:51",
+            "LAST_LOGIN": "11-07-2020 07:26:51",
             "ROLE": "superadmin",
-            "FULLNAME": "Rasta Hirgawana",
+            "FULLNAME": "Adistia Ramadhani",
             "JENKEL": null,
             "NO_TELP": null,
             "ALAMAT": null,
             "PHOTO": "default.png",
-            "DTE_CREATED": "2017-07-11"
+            "DTE_CREATED": "2020-07-11"
         },
         {
             "ID_ADMIN": "AD008",
-            "USERNAME": "slamet",
+            "USERNAME": "dara",
             "PASSWORD": "c5a42d9667c760e1b7c064e25536e570",
-            "LAST_LOGIN": "12-07-2017 03:36:15",
+            "LAST_LOGIN": "12-07-2020 03:36:15",
             "ROLE": "superadmin",
-            "FULLNAME": "Slamet Riyadi",
+            "FULLNAME": "Dara atria ferliandini",
             "JENKEL": null,
             "NO_TELP": null,
             "ALAMAT": null,
             "PHOTO": "default.png",
-            "DTE_CREATED": "2017-07-12"
+            "DTE_CREATED": "2020-07-12"
         }
     ],
     "anggota": [
         {
             "ID_ANGGOTA": "AGT001",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Multazam Arroihan G",
-            "TMP_LAHIR": "Bojonegoro",
+            "FULL_NAME": "Adistia Ramadhani",
+            "TMP_LAHIR": "Bandung",
             "TGL_LAHIR": "02\/20\/2000",
-            "ALAMAT": "Jl. Danau Kerinci V G6D4, Sawojajar, Malang",
-            "GENDER": "L",
+            "ALAMAT": "Jl Jendral ahmad yani",
+            "GENDER": "P",
             "TELP": "085733573529",
             "FOTO": "20__Multazam_A_3.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT002",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Galbie Elinour",
-            "TMP_LAHIR": "Malang",
-            "TGL_LAHIR": "06\/16\/2017",
-            "ALAMAT": "Jl. Kawi no. 89, Malang Kota",
-            "GENDER": "P",
+            "FULL_NAME": "Ahmad rizal imaddudin",
+            "TMP_LAHIR": "Kabupaten bandung",
+            "TGL_LAHIR": "06\/16\/2020",
+            "ALAMAT": "Bandung",
+            "GENDER": "L",
             "TELP": "0897786788954",
             "FOTO": "12__GALBIE_ELINOUR1.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT003",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Alfan Cahyo Wicaksono",
-            "TMP_LAHIR": "Malang",
+            "FULL_NAME": "Akbar Maulana M. Tarumadoya",
+            "TMP_LAHIR": "Ternate",
             "TGL_LAHIR": "10\/13\/1998",
-            "ALAMAT": "Jl. Silak Kesam 101",
+            "ALAMAT": "Ternate",
             "GENDER": "L",
             "TELP": "087669887654",
             "FOTO": "2__Alfan_Cahyo_.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT004",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Sasna Salsabila Hapsari",
-            "TMP_LAHIR": "Madiun",
+            "FULL_NAME": "Alam Nurzaman",
+            "TMP_LAHIR": "Bandung",
             "TGL_LAHIR": "03\/08\/1999",
-            "ALAMAT": "Perum. Aspol 443, Kota Madiun",
-            "GENDER": "P",
+            "ALAMAT": "Perum. Aspol 443, Kota Bandung",
+            "GENDER": "L",
             "TELP": "0818897546788",
             "FOTO": "30__Sasna_S_.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT005",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Riski Ananda Widiya P",
-            "TMP_LAHIR": "Tulungagung",
+            "FULL_NAME": "Chika stefanny siswandi",
+            "TMP_LAHIR": "Karawang",
             "TGL_LAHIR": "02\/19\/2000",
-            "ALAMAT": "Perum. Grand Emerald ZU3, Tulungagung",
+            "ALAMAT": "Perum. Grand Emerald ZU3, Karawang",
             "GENDER": "P",
             "TELP": "093889765643",
             "FOTO": "31__Riski_Ananda.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT006",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Anggyanisa Mutia Putri",
-            "TMP_LAHIR": "Madiun",
+            "FULL_NAME": "Dara atria ferliandini",
+            "TMP_LAHIR": "Bandung",
             "TGL_LAHIR": "08\/18\/2000",
             "ALAMAT": "Gg. Pattimura 89",
             "GENDER": "P",
             "TELP": "085389755644",
             "FOTO": "2__Anddyanisa_M_.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT007",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Prasetya Ananta W. S.",
+            "FULL_NAME": "Deri Kurniawan",
             "TMP_LAHIR": "Malang",
             "TGL_LAHIR": "06\/16\/1999",
             "ALAMAT": "Sulfat Indah 89",
             "GENDER": "L",
             "TELP": "08267599432",
             "FOTO": "28__Prsetya_Ananta.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT008",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Irvina Firadila",
-            "TMP_LAHIR": "Lumajang",
+            "FULL_NAME": "Dewi febrima raifu",
+            "TMP_LAHIR": "Jayapura",
             "TGL_LAHIR": "08\/12\/1999",
-            "ALAMAT": "Ds. Sambungrejo RT. 4 RW. 7 Kec. Welasasih, Lumajang",
+            "ALAMAT": "Ds. Sambungrejo RT. 4 RW. 7 Kec. Welasasih, Jayapura",
             "GENDER": "P",
             "TELP": "0876654897765",
             "FOTO": "14__Irvina_F_.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT009",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Ridhwan Rofianto",
-            "TMP_LAHIR": "Surabaya",
+            "FULL_NAME": "Domingous doutel sarmento",
+            "TMP_LAHIR": "Timor Leste",
             "TGL_LAHIR": "04\/01\/2001",
             "ALAMAT": "Mburine cito",
             "GENDER": "L",
             "TELP": "089776598334",
             "FOTO": "29__RIDHWAN_ROFIANTO.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT010",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Muhamad Iqbal Samudra",
-            "TMP_LAHIR": "Banyuwangi",
+            "FULL_NAME": "Fachruly Al-Huzairy",
+            "TMP_LAHIR": "Garut",
             "TGL_LAHIR": "04\/05\/2000",
             "ALAMAT": "Ds. Sumoharjo, RT. 5 RW. 9",
             "GENDER": "L",
             "TELP": "08677564987",
             "FOTO": "18__Muh__Iqbal.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT011",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Nabila Hanggana Raras",
-            "TMP_LAHIR": "Sidoarjo",
+            "FULL_NAME": "Vakrun Nisah",
+            "TMP_LAHIR": "Ciamis",
             "TGL_LAHIR": "03\/08\/2000",
-            "ALAMAT": "Perum. Sugih Asri F32, Candi, Sidoarjo",
+            "ALAMAT": "Pamarican, Ciamis",
             "GENDER": "P",
             "TELP": "084876835267",
             "FOTO": "28__Nabila_Hanggana_Raras.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT012",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Erika Prafitasari Rotinsulu",
+            "FULL_NAME": "Fernanda Ndaru Santoso",
             "TMP_LAHIR": "Sidoarjo",
             "TGL_LAHIR": "08\/04\/2000",
             "ALAMAT": "Perum. Bumi Citra Fajar A76, Sekardangan, Sidoarjo",
-            "GENDER": "P",
+            "GENDER": "L",
             "TELP": "08567498256",
             "FOTO": "9__Erika_P_.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT013",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Nico Ardian Nugroho",
-            "TMP_LAHIR": "Malang",
+            "FULL_NAME": "Iman Faturahman",
+            "TMP_LAHIR": "Bandung",
             "TGL_LAHIR": "04\/02\/2000",
-            "ALAMAT": "Jl. Sironggo Ajoh Kav. 4, Malang",
+            "ALAMAT": "Jl. Sironggo Ajoh Kav. 4, Bandung",
             "GENDER": "L",
             "TELP": "089765689645",
             "FOTO": "24__Nico_Ardian.JPG",
-            "D_CREATED": "2017-06-16"
+            "D_CREATED": "2020-06-16"
         },
         {
             "ID_ANGGOTA": "AGT014",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Ad Reana Vidya",
-            "TMP_LAHIR": "Malang",
+            "FULL_NAME": "Irfan Ramdani",
+            "TMP_LAHIR": "Bandung",
             "TGL_LAHIR": "06\/29\/2000",
-            "ALAMAT": "Perum. Siswa Taman AG65, Kepanjen",
-            "GENDER": "P",
+            "ALAMAT": "Perum. Siswa Taman AG65, Bandung",
+            "GENDER": "L",
             "TELP": "087995764839",
             "FOTO": "2__Ad_Reana.JPG",
-            "D_CREATED": "2017-06-29"
+            "D_CREATED": "2020-06-29"
         },
         {
             "ID_ANGGOTA": "AGT015",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Vejryn Shaviero",
-            "TMP_LAHIR": "Jember",
+            "FULL_NAME": "Joshua Dehary butar-butar",
+            "TMP_LAHIR": "Bandung",
             "TGL_LAHIR": "06\/10\/2000",
-            "ALAMAT": "Jl. Utama Kota gg. 6, Jember",
+            "ALAMAT": "Jl. Utama Kota gg. 6, Ciberem",
             "GENDER": "L",
             "TELP": "088786368495",
             "FOTO": "34__VEJRYN_SHAVIERO.JPG",
-            "D_CREATED": "2017-06-29"
+            "D_CREATED": "2020-06-29"
         },
         {
             "ID_ANGGOTA": "AGT016",
             "ID_ADMIN": "AD001",
-            "FULL_NAME": "Ridjal Fathoni Rosyidi",
-            "TMP_LAHIR": "Tuban",
+            "FULL_NAME": "M Bayu ramadhani",
+            "TMP_LAHIR": "Karawang",
             "TGL_LAHIR": "07\/09\/1998",
             "ALAMAT": "Jl. Alun alun kota",
             "GENDER": "L",
             "TELP": "08766754345",
             "FOTO": "19__Muh__Ridjal.JPG",
-            "D_CREATED": "2017-07-09"
+            "D_CREATED": "2020-07-09"
         }
     ],
     "buku": [
@@ -456,7 +456,7 @@ const DataSource = JSON.parse(`{
             "TITLE": "The Power of Microsoft Edge",
             "AUTHOR": "Steven Reward",
             "PUBLISHER": "Duston Magz",
-            "YEAR": "2017",
+            "YEAR": "2020",
             "QTY": "5",
             "KELUAR": "1"
         },
@@ -506,7 +506,7 @@ const DataSource = JSON.parse(`{
             "TITLE": "Unreleashed Journal",
             "AUTHOR": "Timothy Law",
             "PUBLISHER": "Askars",
-            "YEAR": "2017",
+            "YEAR": "2020",
             "QTY": "4",
             "KELUAR": "0"
         }
@@ -516,7 +516,7 @@ const DataSource = JSON.parse(`{
             "ID_DIPINJAM": "13",
             "ID_PINJAM": "P170623001",
             "ID_BUKU": "BKO005",
-            "TGL_KEMBALI": "2017-06-25",
+            "TGL_KEMBALI": "2020-06-25",
             "DENDA": "0",
             "STATUS": "Sudah Kembali"
         },
@@ -548,7 +548,7 @@ const DataSource = JSON.parse(`{
             "ID_DIPINJAM": "17",
             "ID_PINJAM": "P170624001",
             "ID_BUKU": "BKO013",
-            "TGL_KEMBALI": "2017-07-09",
+            "TGL_KEMBALI": "2020-07-09",
             "DENDA": "4000",
             "STATUS": "Sudah Kembali"
         },
@@ -620,7 +620,7 @@ const DataSource = JSON.parse(`{
             "ID_DIPINJAM": "26",
             "ID_PINJAM": "P170624004",
             "ID_BUKU": "BKO017",
-            "TGL_KEMBALI": "2017-06-25",
+            "TGL_KEMBALI": "2020-06-25",
             "DENDA": "0",
             "STATUS": "Sudah Kembali"
         },
@@ -644,7 +644,7 @@ const DataSource = JSON.parse(`{
             "ID_DIPINJAM": "29",
             "ID_PINJAM": "P170624006",
             "ID_BUKU": "BKO011",
-            "TGL_KEMBALI": "2017-06-25",
+            "TGL_KEMBALI": "2020-06-25",
             "DENDA": "0",
             "STATUS": "Sudah Kembali"
         },
@@ -652,7 +652,7 @@ const DataSource = JSON.parse(`{
             "ID_DIPINJAM": "30",
             "ID_PINJAM": "P170624006",
             "ID_BUKU": "BKO018",
-            "TGL_KEMBALI": "2017-07-10",
+            "TGL_KEMBALI": "2020-07-10",
             "DENDA": "4500",
             "STATUS": "Sudah Kembali"
         },
@@ -684,7 +684,7 @@ const DataSource = JSON.parse(`{
             "ID_DIPINJAM": "34",
             "ID_PINJAM": "P170625002",
             "ID_BUKU": "BKO010",
-            "TGL_KEMBALI": "2017-07-09",
+            "TGL_KEMBALI": "2020-07-09",
             "DENDA": "3500",
             "STATUS": "Sudah Kembali"
         },
@@ -823,42 +823,42 @@ const DataSource = JSON.parse(`{
             "ID_ADMIN": "AD003",
             "JUDUL": "Fokus target",
             "ISI": "Kejar sesuai kemampuan, open book",
-            "DT": "2017-07-03"
+            "DT": "2020-07-03"
         },
         {
             "ID_NOTIF": "5",
             "ID_ADMIN": "AD003",
             "JUDUL": "Hahha",
             "ISI": "hehee",
-            "DT": "2017-07-03"
+            "DT": "2020-07-03"
         },
         {
             "ID_NOTIF": "6",
             "ID_ADMIN": "AD003",
             "JUDUL": "THR Turun",
             "ISI": "silahkan antri di ruang bendahara jam 12.00",
-            "DT": "2017-07-09"
+            "DT": "2020-07-09"
         },
         {
             "ID_NOTIF": "7",
             "ID_ADMIN": "AD007",
             "JUDUL": "Selamat siang",
             "ISI": "jangan lupa sholat dhuhr, cekno tenang atine",
-            "DT": "2017-07-11"
+            "DT": "2020-07-11"
         },
         {
             "ID_NOTIF": "8",
             "ID_ADMIN": "AD008",
             "JUDUL": "Attitude is everything",
             "ISI": "semangat pagii, pagi pagi pagi",
-            "DT": "2017-07-12"
+            "DT": "2020-07-12"
         },
         {
             "ID_NOTIF": "10",
             "ID_ADMIN": "AD001",
             "JUDUL": "Hallo",
             "ISI": "test halo",
-            "DT": "2017-07-13"
+            "DT": "2020-07-13"
         }
     ],
     "peminjaman": [
@@ -866,7 +866,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170623001",
             "ID_ANGGOTA": "AGT002",
             "ID_ADMIN": "AD004",
-            "TGL_PINJAM": "2017-06-23",
+            "TGL_PINJAM": "2020-06-23",
             "JML_BUKU": "3",
             "STATS": "Sudah Kembali"
         },
@@ -874,7 +874,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170623002",
             "ID_ANGGOTA": "AGT003",
             "ID_ADMIN": "AD005",
-            "TGL_PINJAM": "2017-06-23",
+            "TGL_PINJAM": "2020-06-23",
             "JML_BUKU": "1",
             "STATS": "Belum Kembali"
         },
@@ -882,7 +882,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170624001",
             "ID_ANGGOTA": "AGT007",
             "ID_ADMIN": "AD005",
-            "TGL_PINJAM": "2017-06-24",
+            "TGL_PINJAM": "2020-06-24",
             "JML_BUKU": "3",
             "STATS": "Belum Kembali"
         },
@@ -890,7 +890,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170624002",
             "ID_ANGGOTA": "AGT008",
             "ID_ADMIN": "AD005",
-            "TGL_PINJAM": "2017-06-24",
+            "TGL_PINJAM": "2020-06-24",
             "JML_BUKU": "3",
             "STATS": "Belum Kembali"
         },
@@ -898,7 +898,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170624003",
             "ID_ANGGOTA": "AGT004",
             "ID_ADMIN": "AD005",
-            "TGL_PINJAM": "2017-06-24",
+            "TGL_PINJAM": "2020-06-24",
             "JML_BUKU": "3",
             "STATS": "Belum Kembali"
         },
@@ -906,7 +906,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170624004",
             "ID_ANGGOTA": "AGT001",
             "ID_ADMIN": "AD004",
-            "TGL_PINJAM": "2017-06-24",
+            "TGL_PINJAM": "2020-06-24",
             "JML_BUKU": "1",
             "STATS": "Sudah Kembali"
         },
@@ -914,7 +914,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170624005",
             "ID_ANGGOTA": "AGT007",
             "ID_ADMIN": "AD004",
-            "TGL_PINJAM": "2017-06-24",
+            "TGL_PINJAM": "2020-06-24",
             "JML_BUKU": "2",
             "STATS": "Belum Kembali"
         },
@@ -922,7 +922,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170624006",
             "ID_ANGGOTA": "AGT003",
             "ID_ADMIN": "AD006",
-            "TGL_PINJAM": "2017-06-24",
+            "TGL_PINJAM": "2020-06-24",
             "JML_BUKU": "2",
             "STATS": "Sudah Kembali"
         },
@@ -930,7 +930,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170625001",
             "ID_ANGGOTA": "AGT013",
             "ID_ADMIN": "AD006",
-            "TGL_PINJAM": "2017-06-25",
+            "TGL_PINJAM": "2020-06-25",
             "JML_BUKU": "3",
             "STATS": "Belum Kembali"
         },
@@ -938,7 +938,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170625002",
             "ID_ANGGOTA": "AGT010",
             "ID_ADMIN": "AD006",
-            "TGL_PINJAM": "2017-06-25",
+            "TGL_PINJAM": "2020-06-25",
             "JML_BUKU": "2",
             "STATS": "Belum Kembali"
         },
@@ -946,7 +946,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170626001",
             "ID_ANGGOTA": "AGT006",
             "ID_ADMIN": "AD004",
-            "TGL_PINJAM": "2017-06-26",
+            "TGL_PINJAM": "2020-06-26",
             "JML_BUKU": "3",
             "STATS": "Belum Kembali"
         },
@@ -954,7 +954,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170626002",
             "ID_ANGGOTA": "AGT012",
             "ID_ADMIN": "AD004",
-            "TGL_PINJAM": "2017-06-26",
+            "TGL_PINJAM": "2020-06-26",
             "JML_BUKU": "2",
             "STATS": "Belum Kembali"
         },
@@ -962,7 +962,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170629001",
             "ID_ANGGOTA": "AGT014",
             "ID_ADMIN": "AD006",
-            "TGL_PINJAM": "2017-06-29",
+            "TGL_PINJAM": "2020-06-29",
             "JML_BUKU": "2",
             "STATS": "Belum Kembali"
         },
@@ -970,7 +970,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170629002",
             "ID_ANGGOTA": "AGT015",
             "ID_ADMIN": "AD006",
-            "TGL_PINJAM": "2017-06-29",
+            "TGL_PINJAM": "2020-06-29",
             "JML_BUKU": "3",
             "STATS": "Belum Kembali"
         },
@@ -978,7 +978,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170709001",
             "ID_ANGGOTA": "AGT011",
             "ID_ADMIN": "AD006",
-            "TGL_PINJAM": "2017-07-09",
+            "TGL_PINJAM": "2020-07-09",
             "JML_BUKU": "2",
             "STATS": "Belum Kembali"
         },
@@ -986,7 +986,7 @@ const DataSource = JSON.parse(`{
             "ID_PINJAM": "P170709002",
             "ID_ANGGOTA": "AGT016",
             "ID_ADMIN": "AD006",
-            "TGL_PINJAM": "2017-07-09",
+            "TGL_PINJAM": "2020-07-09",
             "JML_BUKU": "2",
             "STATS": "Belum Kembali"
         },
@@ -1045,6 +1045,20 @@ function getAdminById(id = false) {
     if (id) {
         DataSource.admin.forEach(element => {
             if (element.ID_ADMIN == id) result = element;
+        });
+    }
+    return result;
+}
+
+function getIddDtailPinjam(ID_DIPINJAM = null) {
+    let result = null;
+    let counter = 0;
+    if (ID_DIPINJAM) {
+        DataSource.detail_pinjam.forEach(e => {
+            if (e.ID_DIPINJAM == ID_DIPINJAM) {
+                result = counter;
+            }
+            counter++;
         });
     }
     return result;
