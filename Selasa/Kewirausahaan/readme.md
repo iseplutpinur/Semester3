@@ -4,16 +4,30 @@
 
 ### Prodi Teknik Informatika / S1 & D3 
 <hr>
-### Table of content
 
+### Table of content
 - [Kewirausahaan](#kewirausahaan)
-  + [USB1235 & USB1205 / 3 sks](#usb1235---usb1205---3-sks)
-  + [Prodi Teknik Informatika / S1 & D3](#prodi-teknik-informatika---s1---d3)
-    - [Deskripsi Mata Kuliah](#deskripsi-mata-kuliah)
-  + [Capaian Pembelajaran](#capaian-pembelajaran)
-  + [**Selamat Belajar!**](#--selamat-belajar---)
+    + [USB1235 & USB1205 / 3 sks](#usb1235---usb1205---3-sks)
+    + [Prodi Teknik Informatika / S1 & D3](#prodi-teknik-informatika---s1---d3)
+    + [Table of content](#table-of-content)
+      - [Deskripsi Mata Kuliah](#deskripsi-mata-kuliah)
+    + [Capaian Pembelajaran](#capaian-pembelajaran)
+    + [**Selamat Belajar!**](#--selamat-belajar---)
 - [Rangkuman Materi Setelah UTS](#rangkuman-materi-setelah-uts)
-  * [Minggu 10 - Membuat Kanvas Model Bisnis](#minggu-10---membuat-kanvas-model-bisnis)
+  * [<a href="./Minggu 10 - Membuat Kanvas Model Bisnis/business_model_canvas_poster.pdf">Minggu 10 - Membuat Kanvas Model Bisnis</a>](#-a-href---minggu-10---membuat-kanvas-model-bisnis-business-model-canvas-posterpdf--minggu-10---membuat-kanvas-model-bisnis--a-)
+  * [<a href="./Minggu%2011%20-%20Contoh%20membuat%20Model%20Bisnis/KANVAS%20MODEL%20BISNIS.pdf">Minggu 11 - Contoh membuat Model Bisnis</a>](#-a-href---minggu-2011-20--20contoh-20membuat-20model-20bisnis-kanvas-20model-20bisnispdf--minggu-11---contoh-membuat-model-bisnis--a-)
+  * [<a href="./Minggu 12 - Penyempurnaan Model Bisnis/KANVAS%20MODEL%20BISNIS.pdf">Minggu 12 - Penyempurnaan Model Bisnis</a>](#-a-href---minggu-12---penyempurnaan-model-bisnis-kanvas-20model-20bisnispdf--minggu-12---penyempurnaan-model-bisnis--a-)
+  * [Minggu 13 - 6 Thinking Hats](#minggu-13---6-thinking-hats)
+    + [Intro](#intro)
+    + [Apa itu berfikir](#apa-itu-berfikir)
+    + [Six Thinking Hat 1985](#six-thinking-hat-1985)
+      - [Topi Putih](#topi-putih)
+      - [Topi Merah](#topi-merah)
+      - [Topi Kuning](#topi-kuning)
+      - [Topi Hitam](#topi-hitam)
+      - [Topi Hijau](#topi-hijau)
+      - [Topi Biru](#topi-biru)
+      - [Resume 6 topi berfikir](#resume-6-topi-berfikir)
 
 <hr>
 
