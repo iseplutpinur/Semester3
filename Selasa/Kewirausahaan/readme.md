@@ -76,7 +76,7 @@ Pergunakanlah berbagai fasilitas yang telah disediakan dengan sebaik-baiknya. Un
 ## <a href="./Minggu 12 - Penyempurnaan Model Bisnis/KANVAS%20MODEL%20BISNIS.pdf">Minggu 12 - Penyempurnaan Model Bisnis</a>
 ## Minggu 13 - 6 Thinking Hats
 
-![image-20210118215415055](Minggu 13 - 6 Thinking Hats\image-20210118215415055.png)
+<img src="Minggu 13 - 6 Thinking Hats\image-20210118215415055.png">
 
 
 
@@ -102,7 +102,7 @@ Menurutnya manusia berfikir manusia memiliki 6 gaya berpikir yang di ibaratkan 6
 
 Kemudian mengembangkan teknik teknik tersebut menjadi teknik kreatif, Berfikir lateral atau berfikir mennyampik dengan mencari solusi diluar jalurnya / kebiasaan. 
 
-![image-20210107125232871](Minggu 13 - 6 Thinking Hats\image-20210107125232871.png)
+<img src="Minggu 13 - 6 Thinking Hats\image-20210107125232871.png">
 
 6 topi berfikir merupakan topi yang imagier yang dimana setiap topinya mereprentasikan sudut pandang:
 
@@ -148,4 +148,15 @@ Topi kuning melambangkan cahaya dan optimisme. Ia berfokus pada alasan yang logi
 
 Topi kunign juga digunakan untuk berpikir konstruktif dan generatif, membuat segalanya bisa dilaksanakan.
 
-Pertanyaan 
+Pertanyaan yang bisa kita hadirkan saat menggunakan topi kuning yaitu:
+
+- Apa point-point postitifnya?
+- apa manfaatnya/ keuntungannya?
+- Mengapa ide ini berguna?
+- Mengapa ide ini layak dilakukan?
+- Bagaimana ide ini dapat dilakukan?
+- Bagaimana ide ini dapat membantu kita?
+- Apakah ide-ide ini layak dijalankan???
+
+
+
