@@ -1,0 +1,9 @@
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 16 - UAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 16 - UAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 16 - UAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 16 - UAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 16 - UAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 16 - UAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 16 - UAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 16 - UAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Kampus\Semester3\Senin\Pemrograman Desktop\Minggu 16 - UAS\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
