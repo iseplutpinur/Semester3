@@ -35,7 +35,6 @@
 
 Selamat datang di kuliah Kewirausahaan Pada mata kuliah ini anda akan belajar mengenai kewirausahaan.
 <hr>
-
 ### Capaian Pembelajaran
 
 Adapun outcomes yang diharapkan setelah mahasiswa mengikuti pembelajaran ini adalah sebagai berikut 
